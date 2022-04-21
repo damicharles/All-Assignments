@@ -1,5 +1,5 @@
 import java.util.Scanner;
-	public class Assignment3 {
+	public class PoundsAndKilograms {
 		public static void main(String[] Strings) {
 	Scanner input = new Scanner(System.in);
 		System.out.print("Enter a number in pounds: ");

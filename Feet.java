@@ -1,5 +1,5 @@
 import java.util.Scanner;
-	public class Assignment2 {
+	public class Feet {
 		public static void main(String[] args) {
 			Scanner input = new Scanner(System.in);
 		System.out.print("Enter a value for feet: ");
